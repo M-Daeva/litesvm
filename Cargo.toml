@@ -8,7 +8,7 @@ version = "0.7.0"
 edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/LiteSVM/litesvm"
-rust-version = "1.86.0"
+# rust-version = "1.84.1"
 
 [workspace.dependencies]
 agave-feature-set = "2.3"
